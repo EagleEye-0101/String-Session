@@ -26,11 +26,11 @@ tutor = """
 """
 
 template = """
-UserBot support: @userbotindo
+String Session generated through @EagleEye0101
             
 <code>STRING_SESSION</code>: <code>{}</code>
 
-⚠️ <b>Please be carefull to pass this value to third parties</b>"""
+⚠️ <b>Please be careful and don't just give this string to anyone because you can't trust anybody in this world; and if you give your string session and anything happens to your account I am not responsible at all!!!/b>"""
 
 
 print(docs)
